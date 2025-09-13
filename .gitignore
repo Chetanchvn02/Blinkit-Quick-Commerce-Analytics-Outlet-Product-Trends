@@ -1,0 +1,4 @@
+# Ignore raw data files
+Data/
+*.csv
+*.xlsx
